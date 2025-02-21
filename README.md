@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">¡Hola 👋, soy Javier Rodríguez!</h1>
+<h3 align="center">Desarrollador de software apasionado por la tecnología y la innovación</h3>
+<hr>
 
-<!--
-**Javiiiii11/Javiiiii11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/cbf598e5-5d80-44f2-a3f3-a743d5fdb873">
 
-Here are some ideas to get you started:
+### 📌 Sobre mí  
+- 🎓 Actualmente estudiando **2º DAM** en **IES Las Salinas**  
+- 🚀 Aprendiendo y mejorando en **Python**  
+- 📧 Contáctame en: **javieraplicacionesweb@gmail.com**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌍 Conéctate conmigo  
+<a href="https://www.linkedin.com/in/javier-rodríguez-181701250/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+---
+
+### 🛠️ Tecnologías y herramientas  
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,flask,angular,js,html,css,mysql,sqlite,oracle,kotlin,jetpackcompose" alt="Stack Tecnológico"/>
+</p>
