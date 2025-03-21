@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador de software apasionado por la tecnología y la innovación</h3>
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navistarp&label=Profile%20views&color=0e75b6&style=flat" alt="navistarp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Javiiiii11&label=Profile%20views&color=0e75b6&style=flat" alt="navistarp" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/cbf598e5-5d80-44f2-a3f3-a743d5fdb873">
 
