@@ -8,7 +8,7 @@
     <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/fly.webp" height="120px" />
 </div>
 
-## <img src="https://private-user-images.githubusercontent.com/163606882/364755611-cbf598e5-5d80-44f2-a3f3-a743d5fdb873.gif" width="50px" height="50px"></img> Sobre mí
+## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> Sobre mí
 
 <hr>
 
