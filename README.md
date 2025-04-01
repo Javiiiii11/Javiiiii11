@@ -26,7 +26,7 @@
 - 🚀 Aprendiendo y mejorando en **Python**  
 - 📧 Contáctame en: **javieraplicacionesweb@gmail.com**  
 
-<br>
+<br><br><br><br>
 
 ## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Tecnologías y herramientas  
 
