@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Javiiiii11&label=Profile%20views&color=0e75b6&style=flat" alt="Javiiiii11" /> </p>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Javier+Rodríguez;Bienvenido+a+mi+perfil!" alt="Title"></img>
 </div>
@@ -16,8 +18,6 @@
 <h3 align="center">Desarrollador de software apasionado por la tecnología y la innovación</h3>
 
 <hr>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Javiiiii11&label=Profile%20views&color=0e75b6&style=flat" alt="Javiiiii11" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/cbf598e5-5d80-44f2-a3f3-a743d5fdb873">
 
@@ -40,19 +40,16 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Mis estadísticas
 
 <table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Javiiiii11&theme=chartreuse-dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Javiiiii11&theme=chartreuse-dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Javiiiii11&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Javiiiii11&theme=chartreuse-dark&show_icons=true&count_private=true" />
+      <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javiiiii11&theme=chartreuse-dark&hide_border=false" alt="GitHub streak stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiiiii11&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+    </td>
+  </tr>
 </table>
 
 <p >
